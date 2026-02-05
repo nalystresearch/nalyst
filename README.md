@@ -1,4 +1,10 @@
 # Nalyst — Machine Learning, Statistics, Time Series, Survival, and Deep Learning in one toolkit
+# Nalyst Documentation Site
+
+**Live Site:** [https://nalystresearch.github.io/nalyst-neurova-repo/mk-docs/nalyst](https://nalystresearch.github.io/nalyst-neurova-repo/mk-docs/nalyst)
+
+**PyPI Package:** [https://pypi.org/project/nalyst/](https://pypi.org/project/nalyst/)
+
 
 Production-grade analytics with a single `train()` / `infer()` API spanning classical ML, statistical modeling, time series, survival analysis, and a PyTorch-style deep learning stack. Includes AutoML, explainability, diagnostics, and pipelines for lab-to-production workflows.
 
